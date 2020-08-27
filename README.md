@@ -1,2 +1,3 @@
 # hello-world
-Just another repository
+
+Hello World exercise on GitHub by Kaitlyn.
